@@ -1,6 +1,6 @@
 # Reader Free Bulma Blog Template
 
-![reader](https://demo.themefisher.com/thumbnails/reader.png)
+![reader](https://assets.teamosis.com/thumbs/reader.png)
 
 👉🏻[View Live Preview](https://demo.themefisher.com/reader-bulma/)
 
